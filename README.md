@@ -1,6 +1,8 @@
 # KCEO-EO-Application-Needs
 
-**APP: https://do-me.github.io/KCEO-EO-Application-Needs/**
+**APP with presets: [here](https://do-me.github.io/KCEO-EO-Application-Needs/#?H4sIAAAAAAAAE3VTXU/jMBD8K6d9Nr2kSZrUb1CKhAQVUoEXVFVuvA0Wjm3ZDm2v8n8/uV/QCl5saWc9Ozvr3cInWie0AgpJL017CRDwokXnWWuApuUgTYoyT7NeUlYEPgWugG7BvevVuF0g50I1QL3tkOyCz2whEeiSSXeITAXHBbPHpFrLrlVTv5HoItP1JJ5cOCPZBigsOykhEPAbg+fIgvEGI7Q+j78LzlFFYPMbcHf/MJ5Prh/HvyXMrV7NheK4/rFmIOBQYu2Rj5jHRtvNaNcH0L1QAnh041Xg6lFzBApGC+UdEGiFEm3X3qJywm/Ga3PHaq8t0IRA59DeMvuxf6M6KQMBI7V3QN+2IDhQKFmRpP9u2PO6HLxWuxH5aDNMWIv8z3SnTWgVazmDdWyi1q3RCpUHCqeEB+E8EDBWm+h+CIEcSry0N3kzepELP1Kl+Fbi0N9PtCPdKf8k9XdKWAqU/PguhDDbdzP1zO8nfnLq6vib4m203efEwBroVdJL0qQs+nmeZYNhlabDvNiNOCJFVmZlWRRVllVlnuUEXM2i3LTXT4bpsBr0q2GSVFlVBgKWqQZPHpxMvnCVbkF4bKPts695P1nkot5rf5sFcmlUXIZzZgK4Nkxx5Kc9MGhrVJ41x9UI5MKGvxIbVPyLDvn9UUwI4T/Li7lrqAMAAA==)**
+
+**APP without presets: https://do-me.github.io/KCEO-EO-Application-Needs/**
 
 A quick visualisation of Earth Observation Application needs (work in progress) found in EU legislation and global conventions. Using https://apple.github.io/embedding-atlas.
 
