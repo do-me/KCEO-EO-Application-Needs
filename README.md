@@ -15,7 +15,7 @@ Note that embedding-atlas might change the flag names if this command doesn't wo
 1. Run the local app
 
 ```shell
-uvx embedding-atlas ANs_21_10_2025.parquet --duckdb server --no-embedding --text AN --x x --y y
+uvx embedding-atlas ANs_21_10_2025.parquet --duckdb server --text AN --x x --y y
 ```
 
 2. Open http://localhost:5055 and modify the settings.
